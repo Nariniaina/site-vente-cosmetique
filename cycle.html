@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script type="text/javascript" src="cycle.js"></script>
+	<title>Menstruation</title>
+	<meta charset="utf-8">
+</head>
+<body>
+	<div id="acc">
+		<p><label>Date de votre dernière règle :</label></p>
+		<p><input class="button button1" type="date" name="der" id="der"><br><br></p>
+		<label>Durée du cycle :</label>
+		<p>
+			<select class="button button1" name="duree" id="duree">
+			<option>20</option>
+			<option>21</option>
+			<option>22</option>
+			<option>23</option>
+			<option>24</option>
+			<option>25</option>
+			<option>26</option>
+			<option>27</option>
+			<option>28</option>
+			<option>29</option>
+			<option>30</option>
+			<option>31</option>
+			<option>32</option>
+			<option>33</option>
+			<option>34</option>
+			<option>35</option>
+			<option>36</option>
+			<option>37</option>
+			<option>38</option>
+			<option>39</option>
+			<option>40</option>
+		</select><br><br>
+		</p>
+		
+		<input class="button button1" type="button" name="verifier" onclick="ver();" value="Calculer"><br><br>
+
+		<label id="O"></label><br><br>
+		<label id="F"></label><br>
+	</div>
+</body>
+</html>
+<style type="text/css">
+#acc{
+	  margin: 0;
+	  font-family: sans-serif;
+	  background: transparent;
+	  background-color: transparent;
+	  margin-top: 50px;
+      font-size: 25px;
+	}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 9rem;
+}
+.button1 {
+  background-color: white; 
+  color: #f44336; 
+  border: 2px solid #f44336;
+  font-size : 25px;
+}
+
+.button1:hover {
+  background-color: #f44336;
+  color: white;
+  font-size : 30px;
+}
+</style>

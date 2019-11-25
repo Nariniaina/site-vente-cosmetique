@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:pencil="http://www.evolus.vn/Namespace/Pencil"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1036"
+   height="573"
+   id="exportedSVG"
+   version="1.1"
+   pencil:version="1.2.2"
+   sodipodi:docname="cosmeticon.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata35">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs33">
+    <path
+       style="fill:none;stroke:#666666;stroke-width:0;stroke-linejoin:round;stroke-opacity:1"
+       pencil:name="outputArrrow1"
+       id="f0e5c9eda04a45429017814f651439dd-1"
+       d=""
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:0;stroke-linejoin:round;stroke-opacity:1"
+       pencil:name="outputArrrow2"
+       id="aac83168c06943e983f2f56e5d939da4-9"
+       d=""
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:0;stroke-linejoin:round;stroke-opacity:1"
+       pencil:name="outputArrrow3"
+       id="5587b05d7df44643955d2c860d42af50-2"
+       d=""
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:0;stroke-linejoin:round;stroke-opacity:1"
+       pencil:name="outputArrrow4"
+       id="a2431b8941f54d14ba5545840d8047f0-9"
+       d=""
+       inkscape:connector-curvature="0" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1032">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1022" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1024" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="12.5"
+         result="blur"
+         id="feGaussianBlur1026" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset1028" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite1030" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix1034" />
+      <feFlood
+         id="feFlood1036"
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite1038"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur1040"
+         in="composite1"
+         stdDeviation="12.5"
+         result="blur" />
+      <feOffset
+         id="feOffset1042"
+         dx="6"
+         dy="6"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite1044"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview31"
+     showgrid="false"
+     inkscape:zoom="0.44637822"
+     inkscape:cx="286.59697"
+     inkscape:cy="193.25752"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g27" />
+  <g
+     inkscape:label="Untitled Page"
+     inkscape:groupmode="layer"
+     id="layer_untitled_page">
+    <g
+       id="g27"
+       transform="translate(-82.889349,-6.720758)"
+       style="filter:url(#filter1032)">
+      <g
+         pencil:type="Shape"
+         pencil:def="Evolus.Flowchart:Terminator"
+         id="b1ac04d1f991490b8d3418abe4c80f7b-9"
+         transform="matrix(1.4531324,0,0,0.77140278,338.12797,144.01372)"
+         style="fill:#916f6f">
+        <pencil:metadata>
+          <pencil:property
+             name="box">529,392</pencil:property>
+          <pencil:property
+             name="outputPin1Origin">264.5,0</pencil:property>
+          <pencil:property
+             name="outputPin1">264.5,0</pencil:property>
+          <pencil:property
+             name="outputPin2Origin">529,196</pencil:property>
+          <pencil:property
+             name="outputPin2">529,196.89497716894977</pencil:property>
+          <pencil:property
+             name="outputPin3Origin">264.5,392</pencil:property>
+          <pencil:property
+             name="outputPin3">264.5,392</pencil:property>
+          <pencil:property
+             name="outputPin4Origin">0,196</pencil:property>
+          <pencil:property
+             name="outputPin4">0,196</pencil:property>
+          <pencil:property
+             name="fillColor">#FF9900FF</pencil:property>
+          <pencil:property
+             name="strokeColor">#666666FF</pencil:property>
+          <pencil:property
+             name="strokeStyle">0|</pencil:property>
+          <pencil:property
+             name="textContent" />
+          <pencil:property
+             name="textFont">Helvetica|normal|normal|12px|none</pencil:property>
+          <pencil:property
+             name="textColor">#000000FF</pencil:property>
+          <pencil:property
+             name="textAlign">1,1</pencil:property>
+          <pencil:property
+             name="optionText1" />
+          <pencil:property
+             name="optionText2" />
+          <pencil:property
+             name="optionText3" />
+          <pencil:property
+             name="optionText4" />
+          <pencil:property
+             name="optionTextFont">Helvetica|normal|normal|12px|none</pencil:property>
+          <pencil:property
+             name="optionTextColor">#666666FF</pencil:property>
+        </pencil:metadata>
+        <path
+           style="fill:#916f6f;fill-opacity:1;stroke:#666666;stroke-width:0;stroke-linejoin:round;stroke-opacity:1"
+           pencil:name="path"
+           id="eb070828ef7a4368ba2ac441b2dfd5e3-6"
+           d="M 88.166667,0 H 440.83333 C 484.91667,0 529,98 529,196 c 0,98 -44.08333,196 -88.16667,196 H 88.166667 C 44.083333,392 0,294 0,196 0,98 44.083333,0 88.166667,0"
+           inkscape:connector-curvature="0" />
+        <text
+           pencil:name="text1"
+           id="43ccaa11ad1545e8816b788d518e40ab-9"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:Helvetica;text-decoration:none;text-decoration-line:none;display:none;visibility:hidden;fill:#916f6f;fill-opacity:1">
+          <textPath
+             xlink:href="#f0e5c9eda04a45429017814f651439dd-1"
+             startOffset="50%"
+             alignment-baseline="middle"
+             id="textPath6-6"
+             style="text-anchor:middle;fill:#916f6f"><tspan
+   dy="-4"
+   pencil:name="textSpan1"
+   id="beaaac7308c44448bcb957c0c91bcd0b-5"
+   dx="0"
+   style="fill:#916f6f" />
+</textPath>
+        </text>
+        <text
+           pencil:name="text2"
+           id="d84f54407598474e82110199e9fa4c44-3"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:Helvetica;text-decoration:none;text-decoration-line:none;display:none;visibility:hidden;fill:#916f6f;fill-opacity:1">
+          <textPath
+             xlink:href="#aac83168c06943e983f2f56e5d939da4-9"
+             startOffset="50%"
+             alignment-baseline="middle"
+             id="textPath10-4"
+             style="text-anchor:middle;fill:#916f6f"><tspan
+   dy="-4"
+   pencil:name="textSpan2"
+   id="1901868db7c34f71b548c359614f092a-3"
+   dx="0"
+   style="fill:#916f6f" />
+</textPath>
+        </text>
+        <text
+           pencil:name="text3"
+           id="f7d8801bd5c3418f99042280e77765c3-6"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:Helvetica;text-decoration:none;text-decoration-line:none;display:none;visibility:hidden;fill:#916f6f;fill-opacity:1">
+          <textPath
+             xlink:href="#5587b05d7df44643955d2c860d42af50-2"
+             startOffset="50%"
+             alignment-baseline="middle"
+             id="textPath14-0"
+             style="text-anchor:middle;fill:#916f6f"><tspan
+   dy="-4"
+   pencil:name="textSpan3"
+   id="2582d3384b134026bbc1fa59c1d2fc46-4"
+   dx="0"
+   style="fill:#916f6f" />
+</textPath>
+        </text>
+        <text
+           pencil:name="text4"
+           id="e45ad8d5e78a4c9eb8f6e9fdd4dfd992-6"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:Helvetica;text-decoration:none;text-decoration-line:none;display:none;visibility:hidden;fill:#916f6f;fill-opacity:1">
+          <textPath
+             xlink:href="#a2431b8941f54d14ba5545840d8047f0-9"
+             startOffset="50%"
+             alignment-baseline="middle-left"
+             id="textPath18-9"
+             style="text-anchor:middle;fill:#916f6f"><tspan
+   dy="-4"
+   pencil:name="textSpan4"
+   id="5b668ee256cf43329119b88be6b31888-8"
+   dx="0"
+   style="fill:#916f6f" />
+</textPath>
+        </text>
+        <text
+           xml:space="preserve"
+           pencil:name="text"
+           id="c9bb865badbb4926820b37d2fec434eb-7"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:Helvetica;text-decoration:none;text-decoration-line:none;text-anchor:start;fill:#916f6f;fill-opacity:1"
+           transform="translate(265,196)" />
+        <path
+           style="fill:#916f6f;stroke:#666666;stroke-width:0;stroke-linejoin:round;stroke-opacity:1"
+           pencil:name="outputArrrow1"
+           id="path4613"
+           d=""
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#916f6f;stroke:#666666;stroke-width:0;stroke-linejoin:round;stroke-opacity:1"
+           pencil:name="outputArrrow2"
+           id="path4615"
+           d=""
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#916f6f;stroke:#666666;stroke-width:0;stroke-linejoin:round;stroke-opacity:1"
+           pencil:name="outputArrrow3"
+           id="path4617"
+           d=""
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#916f6f;stroke:#666666;stroke-width:0;stroke-linejoin:round;stroke-opacity:1"
+           pencil:name="outputArrrow4"
+           id="path4619"
+           d=""
+           inkscape:connector-curvature="0" />
+      </g>
+      <rect
+         x="0"
+         y="0"
+         width="1036"
+         height="573"
+         id="rect2"
+         style="fill:none" />
+      <g
+         pencil:type="Shape"
+         pencil:def="Evolus.Flowchart:Terminator"
+         id="b1ac04d1f991490b8d3418abe4c80f7b"
+         transform="translate(132,89)">
+        <pencil:metadata>
+          <pencil:property
+             name="box">529,392</pencil:property>
+          <pencil:property
+             name="outputPin1Origin">264.5,0</pencil:property>
+          <pencil:property
+             name="outputPin1">264.5,0</pencil:property>
+          <pencil:property
+             name="outputPin2Origin">529,196</pencil:property>
+          <pencil:property
+             name="outputPin2">529,196.89497716894977</pencil:property>
+          <pencil:property
+             name="outputPin3Origin">264.5,392</pencil:property>
+          <pencil:property
+             name="outputPin3">264.5,392</pencil:property>
+          <pencil:property
+             name="outputPin4Origin">0,196</pencil:property>
+          <pencil:property
+             name="outputPin4">0,196</pencil:property>
+          <pencil:property
+             name="fillColor">#FF9900FF</pencil:property>
+          <pencil:property
+             name="strokeColor">#666666FF</pencil:property>
+          <pencil:property
+             name="strokeStyle">0|</pencil:property>
+          <pencil:property
+             name="textContent" />
+          <pencil:property
+             name="textFont">Helvetica|normal|normal|12px|none</pencil:property>
+          <pencil:property
+             name="textColor">#000000FF</pencil:property>
+          <pencil:property
+             name="textAlign">1,1</pencil:property>
+          <pencil:property
+             name="optionText1" />
+          <pencil:property
+             name="optionText2" />
+          <pencil:property
+             name="optionText3" />
+          <pencil:property
+             name="optionText4" />
+          <pencil:property
+             name="optionTextFont">Helvetica|normal|normal|12px|none</pencil:property>
+          <pencil:property
+             name="optionTextColor">#666666FF</pencil:property>
+        </pencil:metadata>
+        <path
+           style="fill:#ff9900;fill-opacity:1;stroke:#666666;stroke-width:0;stroke-linejoin:round;stroke-opacity:1"
+           pencil:name="path"
+           id="eb070828ef7a4368ba2ac441b2dfd5e3"
+           d="M 88.166667,0 H 440.83333 C 484.91667,0 529,98 529,196 c 0,98 -44.08333,196 -88.16667,196 H 88.166667 C 44.083333,392 0,294 0,196 0,98 44.083333,0 88.166667,0"
+           inkscape:connector-curvature="0" />
+        <text
+           pencil:name="text1"
+           id="43ccaa11ad1545e8816b788d518e40ab"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:Helvetica;text-decoration:none;text-decoration-line:none;display:none;visibility:hidden;fill:#666666;fill-opacity:1">
+          <textPath
+             xlink:href="#f0e5c9eda04a45429017814f651439dd"
+             startOffset="50%"
+             alignment-baseline="middle"
+             id="textPath6"
+             style="text-anchor:middle"><tspan
+   dy="-4"
+   pencil:name="textSpan1"
+   id="beaaac7308c44448bcb957c0c91bcd0b"
+   dx="0" />
+</textPath>
+        </text>
+        <text
+           pencil:name="text2"
+           id="d84f54407598474e82110199e9fa4c44"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:Helvetica;text-decoration:none;text-decoration-line:none;display:none;visibility:hidden;fill:#666666;fill-opacity:1">
+          <textPath
+             xlink:href="#aac83168c06943e983f2f56e5d939da4"
+             startOffset="50%"
+             alignment-baseline="middle"
+             id="textPath10"
+             style="text-anchor:middle"><tspan
+   dy="-4"
+   pencil:name="textSpan2"
+   id="1901868db7c34f71b548c359614f092a"
+   dx="0" />
+</textPath>
+        </text>
+        <text
+           pencil:name="text3"
+           id="f7d8801bd5c3418f99042280e77765c3"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:Helvetica;text-decoration:none;text-decoration-line:none;display:none;visibility:hidden;fill:#666666;fill-opacity:1">
+          <textPath
+             xlink:href="#5587b05d7df44643955d2c860d42af50"
+             startOffset="50%"
+             alignment-baseline="middle"
+             id="textPath14"
+             style="text-anchor:middle"><tspan
+   dy="-4"
+   pencil:name="textSpan3"
+   id="2582d3384b134026bbc1fa59c1d2fc46"
+   dx="0" />
+</textPath>
+        </text>
+        <text
+           pencil:name="text4"
+           id="e45ad8d5e78a4c9eb8f6e9fdd4dfd992"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:Helvetica;text-decoration:none;text-decoration-line:none;display:none;visibility:hidden;fill:#666666;fill-opacity:1">
+          <textPath
+             xlink:href="#a2431b8941f54d14ba5545840d8047f0"
+             startOffset="50%"
+             alignment-baseline="middle-left"
+             id="textPath18"
+             style="text-anchor:middle"><tspan
+   dy="-4"
+   pencil:name="textSpan4"
+   id="5b668ee256cf43329119b88be6b31888"
+   dx="0" />
+</textPath>
+        </text>
+        <text
+           xml:space="preserve"
+           pencil:name="text"
+           id="c9bb865badbb4926820b37d2fec434eb"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:Helvetica;text-decoration:none;text-decoration-line:none;text-anchor:start;fill:#000000;fill-opacity:1"
+           transform="translate(265,196)" />
+        <path
+           style="fill:none;stroke:#666666;stroke-width:0;stroke-linejoin:round;stroke-opacity:1"
+           pencil:name="outputArrrow1"
+           id="f0e5c9eda04a45429017814f651439dd"
+           d=""
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#666666;stroke-width:0;stroke-linejoin:round;stroke-opacity:1"
+           pencil:name="outputArrrow2"
+           id="aac83168c06943e983f2f56e5d939da4"
+           d=""
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#666666;stroke-width:0;stroke-linejoin:round;stroke-opacity:1"
+           pencil:name="outputArrrow3"
+           id="5587b05d7df44643955d2c860d42af50"
+           d=""
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#666666;stroke-width:0;stroke-linejoin:round;stroke-opacity:1"
+           pencil:name="outputArrrow4"
+           id="a2431b8941f54d14ba5545840d8047f0"
+           d=""
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:213.12773132px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#241c1c;fill-opacity:1;stroke:none;stroke-width:5.32819366"
+       x="430.69128"
+       y="345.72104"
+       id="text4547-4"><tspan
+         sodipodi:role="line"
+         id="tspan4545-2"
+         x="430.69128"
+         y="345.72104"
+         style="fill:#241c1c;stroke-width:5.32819366">Shop</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:122.21470642px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.05536771"
+       x="61.470909"
+       y="314.62216"
+       id="text4547"><tspan
+         sodipodi:role="line"
+         id="tspan4545"
+         x="61.470909"
+         y="314.62216"
+         style="fill:#ffffff;stroke-width:3.05536771">Cosmeti</tspan></text>
+  </g>
+</svg>
